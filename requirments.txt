@@ -1,0 +1,3 @@
+pandas
+numpy
+git+https://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@github.com/jonathankopp/Thorfinn.git
