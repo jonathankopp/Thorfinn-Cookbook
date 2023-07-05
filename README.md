@@ -13,5 +13,5 @@ Thorfinn is a Python package aiming to democratize best practices with LLMs. Inc
 - Using Thorfinn to compress Token size of context for in-context learning
 - Using Throfinn's search algorithms to outperform general "cosine_similarity" based searching
 
-Reach out to jonathan.koppelm@gmail.com for a valid token to pull Thorfinn package today!
+Reach out to jonathan.koppelm@gmail.com for a valid token to use Thorfinn today!
 Also, reach out if you would like to help develop Thorfinn
