@@ -8,10 +8,9 @@ Thorfinn is a Python package aiming to democratize best practices with LLMs. Inc
 
 <h3>Cookbooks being curated</h3>
 
-- Using Throfinn to create an in-memory vecdb
 - Using Throfinn to interface with a vecDB like Milvus
-- Using Thorfinn to compress Token size of context for in-context learning
 - Using Throfinn's search algorithms to outperform general "cosine_similarity" based searching
+- Using Thorfinn to compress Token size of context for in-context learning
 
 Reach out to jonathan.koppelm@gmail.com for a valid token to use Thorfinn today!
 Also, reach out if you would like to help develop Thorfinn

@@ -1,3 +1,2 @@
 pandas
 numpy
-git+https://<ACCESS_TOKEN>@github.com/jonathankopp/Thorfinn.git
